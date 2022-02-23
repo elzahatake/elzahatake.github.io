@@ -1,6 +1,8 @@
-# Name: Hungry Pac-Man.
+# Name:
+Hungry Pac-Man.
 
-# Description: The JS file allows you to launch a hungry Pac-Man and examine/change the parameters.
+# Description:
+The JS file allows you to launch a hungry Pac-Man and examine/change the parameters.
 
 # Installation: If needed, you could include steps to help people get started with your project.
 
