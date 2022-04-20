@@ -1,4 +1,5 @@
 h1 {text-align: center;}
+
 p {text-align: center;}
 .image{display: block;
   margin-left: auto;
@@ -6,6 +7,7 @@ p {text-align: center;}
   width: 15%;
   border-radius: 60%;
 }
+
 div {
   padding: 70px;
 }
