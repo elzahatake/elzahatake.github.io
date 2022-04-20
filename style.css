@@ -15,7 +15,7 @@ div {
 }
 .nav ul {
   list-style: none;
-  background-color: #444;
+  background-color: #FFE4E1;
   text-align: center;
   padding: 0;
   margin: 0;
@@ -25,12 +25,12 @@ div {
   font-size: 1.2em;
   line-height: 40px;
   height: 40px;
-  border-bottom: 1px solid #888;
+  border-bottom: 1px solid #FFE4E1;
 }
  
 .nav a {
   text-decoration: none;
-  color: #fff;
+  color: #FFE4E1;
   display: block;
   transition: .3s background-color;
 }
