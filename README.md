@@ -1,5 +1,5 @@
 # My Portfolio
-<a href = "elzahatake.github.io/map">Map</a>
+ <a href = "http://elzahatake.github.io/README.md">Read Me</a>
 
 # Name
 
