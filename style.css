@@ -2,6 +2,10 @@ body {background-color: #FFF0F5;}
 
 h1, h2 {text-align: center;}
 
+.heading {
+  font-family: "sans-serif", Verdana;
+}
+
 p {text-align: center;}
 .image{display: block;
   margin-left: auto;
